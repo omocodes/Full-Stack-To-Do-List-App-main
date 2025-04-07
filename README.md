@@ -6,15 +6,6 @@ This is a modern fullstack Todo List application built with **Spring Boot**, **S
 
 ## 🚀 Features
 
-- 🔐 **Authentication & Authorization**  
-  Secure user login with **JWT-based authentication** powered by Spring Security.
-
-- ✅ **Task Management (CRUD)**  
-  Add, update, and delete tasks with real-time feedback.
-
-- 📧 **Email Notifications**  
-  Sends emails using **Thymeleaf templates**.
-
 - 🗂️ **Task Categorization**  
   Easily distinguish between **completed** and **pending** tasks.
 
