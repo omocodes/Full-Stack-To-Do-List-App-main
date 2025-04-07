@@ -85,6 +85,5 @@ ng serve
 
 Visit [http://localhost:4200](http://localhost:4200) in your browser.
 
-- Log in or register.
 - Start managing your tasks.
 - Use the interface to add, edit, complete, or delete tasks.
