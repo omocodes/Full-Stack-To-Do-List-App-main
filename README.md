@@ -26,6 +26,39 @@ This is a modern fullstack Todo List application built with **Spring Boot**, **S
 
 ---
 
+## 🧠 Concepts Covered
+
+### 🔷 Angular Concepts
+- Dependency Injection  
+- Observables & Subscribers  
+- HTTP Client  
+- OnInit Lifecycle Hook  
+- Component Data Binding  
+- Parent and Child Components  
+- Component Interaction (`@Input`)  
+- Event Binding (`(event)`)  
+- Property Binding (`[property]`)  
+- Template Reference Variables (`#ref`)  
+- `*ngFor`, `ngClass` Directives  
+- RxJS Operators  
+- Angular CLI Commands  
+- TypeScript Best Practices  
+
+### ☕ Spring Boot Concepts
+- Spring Security (JWT Authentication)  
+- Spring Data JPA & Hibernate  
+- Java Persistence API (JPA)  
+- Spring Web (REST APIs)  
+- Dependency Injection  
+- Service Layer Architecture  
+- HTTP Methods (GET, POST, PUT, DELETE)  
+- `@PathVariable`, `@RequestBody`  
+- Exception Handling  
+- `CorsConfiguration` for CORS setup  
+- Custom Security Configuration  
+
+---
+
 ## 🛠️ Technologies Used
 
 - **Backend:** Spring Boot 3, Spring Security 6, JWT, Thymeleaf  
@@ -38,7 +71,7 @@ This is a modern fullstack Todo List application built with **Spring Boot**, **S
 
 ### 1. Clone the repository
 ```bash
-git clone
+git clone <repo-url>
 ```
 
 ### 2. Run the Backend
@@ -61,5 +94,6 @@ ng serve
 
 Visit [http://localhost:4200](http://localhost:4200) in your browser.
 
+- Log in or register.
 - Start managing your tasks.
 - Use the interface to add, edit, complete, or delete tasks.
